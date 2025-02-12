@@ -1,6 +1,3 @@
-latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
-51.42355,5.533454,23.0,3600,Europe/Amsterdam,GMT+1
-
 time,temperature_2m (°C),relative_humidity_2m (%),precipitation (mm),rain (mm),pressure_msl (hPa),wind_speed_10m (km/h)
 2020-01-01T00:00,2.5,94,0.00,0.00,1034.8,10.0
 2020-01-01T01:00,2.7,96,0.00,0.00,1034.7,9.5
